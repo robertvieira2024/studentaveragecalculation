@@ -1,0 +1,10 @@
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\bin\Debug\StudentAverageCalculation.exe.config
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\bin\Debug\StudentAverageCalculation.exe
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\bin\Debug\StudentAverageCalculation.pdb
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.csproj.AssemblyReference.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.Form1.resources
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.Properties.Resources.resources
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.csproj.GenerateResource.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.exe
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\StudentAverageCalculation\StudentAverageCalculation\obj\Debug\StudentAverageCalculation.pdb
